@@ -1,0 +1,1 @@
+{"N": 3, "K": 3, "p": 2, "pair": 0, "seed": 3015847, "composition_states": 2, "A": {"states": 3, "inputs": "I", "outputs": "U", "initial": 0, "delta": [[0, 0], [0, 2], [0, 0]], "lambda": [[0, 1], [1, 1], [1, 1]]}, "B": {"states": 3, "inputs": "U", "outputs": "O", "initial": 0, "delta": [[2, 0], [0, 0], [0, 2]], "lambda": [[0, 0], [0, 0], [1, 1]]}}
